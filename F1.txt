@@ -1,7 +1,10 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 gdkmmsklkkbjsddj.
 >>>>>>> parent of 074c1c9 (data added)
+=======
+>>>>>>> parent of 953b616 (some data added)
 =======
 >>>>>>> parent of 953b616 (some data added)
